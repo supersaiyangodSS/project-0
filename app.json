@@ -8,6 +8,9 @@
       "expo-router"
     ],
     "name": "react-native-app",
-    "slug": "react-native-app"
+    "slug": "react-native-app",
+    "android": {
+      "package": "com.anonymous.reactnativeapp"
+    }
   }
 }
